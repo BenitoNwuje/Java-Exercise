@@ -4,5 +4,4 @@ public enum Bestemming {
 	PARIJS,
 	ROME,
 	KEULEN,
-	BRUSSEL
 }

@@ -5,13 +5,13 @@ public class Passagier {
 	public String voornaam;
 	public String geboortedatum; 
 	public String rijksregisternr;
-	public Passagier(String naam, String voornaam, String rijksregisternr, Vlucht vlucht) {
+	public Passagier(String naam, String voornaam, String rijksregisternr) {
 		super();
 		this.naam = naam;
 		this.voornaam = voornaam;
 		this.rijksregisternr = rijksregisternr;
 	}
-	public Passagier(String naam, String voornaam, String geboortedatum, String rijksregisternr, Vlucht vlucht) {
+	public Passagier(String naam, String voornaam, String geboortedatum, String rijksregisternr) {
 		super();
 		this.naam = naam;
 		this.voornaam = voornaam;
