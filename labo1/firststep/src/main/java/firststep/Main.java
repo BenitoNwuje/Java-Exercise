@@ -1,4 +1,4 @@
-package firststeps;
+package firststep;
 
 public class Main {
 
